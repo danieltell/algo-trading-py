@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+      "password":"",
+dist/ 
+build/
+eggs/
+.eggs/
+develop-eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+__pycache__/
+*.py[cod]
+*$py.class
+.idea/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
